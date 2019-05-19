@@ -32,17 +32,17 @@ To learn Deep Learning, Computer Vision or Natural Language Processing [check my
 * [Basic knowledge in Deep Learning (MLP, CNN and RNN)](https://github.com/andri27-ts/1-Year-ML-Journey)
 
 ## Index
- - **[Week 1 - Introduction](https://github.com/andri27-ts/60_Days_RL_Challenge#week-1---introduction)**
- - **[Week 2 - RL Basics](https://github.com/andri27-ts/60_Days_RL_Challenge#week-2---rl-basics-mdp-dynamic-programming-and-model-free-control)**
- - **[Week 3 - Value Function Approximation and DQN](https://github.com/andri27-ts/60_Days_RL_Challenge#week-3---value-function-approximation-and-dqn)**
- - **[Week 4 - Policy gradient methods and A2C](https://github.com/andri27-ts/60_Days_RL_Challenge#week-4---policy-gradient-methods-and-a2c)**
- - **[Week 5 - Advanced Policy Gradients - TRPO & PPO](https://github.com/andri27-ts/60_Days_RL_Challenge#week-5---advanced-policy-gradients---trpo--ppo)**
- - **[Week 6 - Evolution Strategies and Genetic Algorithms](https://github.com/andri27-ts/60_Days_RL_Challenge#week-6---evolution-strategies-and-genetic-algorithms)**
- - **[Week 7 - Model-Based reinforcement learning](https://github.com/andri27-ts/60_Days_RL_Challenge#week-7---model-based-reinforcement-learning)**
- - **[Week 8 - Advanced Concepts and Project Of Your Choice](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#week-8---advanced-concepts-and-project-of-your-choice)**
- - **[Last 4 days - Review + Sharing](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#last-4-days---review--sharing)**
- - **[Best resources](https://github.com/andri27-ts/60_Days_RL_Challenge#best-resources)**
- - **[Additional resources](https://github.com/andri27-ts/60_Days_RL_Challenge#additional-resources)**
+ - **[Week 1 - Introduction](https://github.com/shamoons/60_Days_RL_Challenge#week-1---introduction)**
+ - **[Week 2 - RL Basics](https://github.com/shamoons/60_Days_RL_Challenge#week-2---rl-basics-mdp-dynamic-programming-and-model-free-control)**
+ - **[Week 3 - Value Function Approximation and DQN](https://github.com/shamoons/60_Days_RL_Challenge#week-3---value-function-approximation-and-dqn)**
+ - **[Week 4 - Policy gradient methods and A2C](https://github.com/shamoons/60_Days_RL_Challenge#week-4---policy-gradient-methods-and-a2c)**
+ - **[Week 5 - Advanced Policy Gradients - TRPO & PPO](https://github.com/shamoons/60_Days_RL_Challenge#week-5---advanced-policy-gradients---trpo--ppo)**
+ - **[Week 6 - Evolution Strategies and Genetic Algorithms](https://github.com/shamoons/60_Days_RL_Challenge#week-6---evolution-strategies-and-genetic-algorithms)**
+ - **[Week 7 - Model-Based reinforcement learning](https://github.com/shamoons/60_Days_RL_Challenge#week-7---model-based-reinforcement-learning)**
+ - **[Week 8 - Advanced Concepts and Project Of Your Choice](https://github.com/shamoons/60_Days_RL_Challenge/blob/master/README.md#week-8---advanced-concepts-and-project-of-your-choice)**
+ - **[Last 4 days - Review + Sharing](https://github.com/shamoons/60_Days_RL_Challenge/blob/master/README.md#last-4-days---review--sharing)**
+ - **[Best resources](https://github.com/shamoons/60_Days_RL_Challenge#best-resources)**
+ - **[Additional resources](https://github.com/shamoons/60_Days_RL_Challenge#additional-resources)**
 
 <br>
 
@@ -50,7 +50,7 @@ To learn Deep Learning, Computer Vision or Natural Language Processing [check my
 
 - ~~**[An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) by Arxiv Insights**~~
 - **[Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine**
-~~- **[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy**~~
+- ~~**[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy**~~
 
 ---
 
